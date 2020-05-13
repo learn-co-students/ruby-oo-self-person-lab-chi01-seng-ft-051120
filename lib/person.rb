@@ -36,7 +36,7 @@ class Person
     self.bank_account += salary
     "all about the benjamins"
   end
-  
+
   def take_bath
     self.hygiene += 4
     "♪ Rub-a-dub just relaxing in the tub ♫"
@@ -65,7 +65,7 @@ class Person
       "blah blah sun blah rain"
     else topic == "other"
       "blah blah blah blah blah"
-    end 
+    end
   end
-
+  #this is a change 
 end
